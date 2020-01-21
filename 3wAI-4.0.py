@@ -2,7 +2,7 @@ import numpy as np
 import torch, mne, warnings, glob
 from datetime import datetime
 
-# Uses pytorchs nn.Module class
+# Uses pytorchs nn.Module class to create the model
 class Model(torch.nn.Module):
     # Defines all the layers of the model
     def __init__(self, num_channels, num_classes, sample_length):
