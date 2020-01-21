@@ -1,0 +1,650 @@
+----------------------------------------------------------------------------------------------------
+Training started: 14/01/2020 22:26:43
+
+Number of classes: 10 | Number of epochs: 50
+Batch size: 1 | Learning rate: 0.001
+Training data size: 811 | Test data size: 144
+
+Epoch: 000 | Test accuracy: 16.667% | Train accuracy: 14.427%
+Epoch: 001 | Test accuracy: 34.028% | Train accuracy: 55.364% | Loss: 2397.179
+Epoch: 002 | Test accuracy: 64.583% | Train accuracy: 82.984% | Loss: 949.924
+Epoch: 003 | Test accuracy: 64.583% | Train accuracy: 90.136% | Loss: 507.887
+Epoch: 004 | Test accuracy: 72.222% | Train accuracy: 93.958% | Loss: 285.227
+Epoch: 005 | Test accuracy: 68.750% | Train accuracy: 95.808% | Loss: 137.481
+Epoch: 006 | Test accuracy: 68.056% | Train accuracy: 96.054% | Loss: 122.401
+Epoch: 007 | Test accuracy: 69.444% | Train accuracy: 96.547% | Loss: 149.328
+Epoch: 008 | Test accuracy: 70.139% | Train accuracy: 95.314% | Loss: 73.728
+Epoch: 009 | Test accuracy: 72.222% | Train accuracy: 96.671% | Loss: 90.014
+Epoch: 010 | Test accuracy: 75.694% | Train accuracy: 98.767% | Loss: 28.321
+Epoch: 011 | Test accuracy: 70.833% | Train accuracy: 95.314% | Loss: 84.035
+Epoch: 012 | Test accuracy: 70.833% | Train accuracy: 97.287% | Loss: 151.192
+Epoch: 013 | Test accuracy: 79.861% | Train accuracy: 99.137% | Loss: 51.565
+Epoch: 014 | Test accuracy: 71.528% | Train accuracy: 97.164% | Loss: 40.349
+Epoch: 015 | Test accuracy: 79.861% | Train accuracy: 99.753% | Loss: 17.922
+Epoch: 016 | Test accuracy: 76.389% | Train accuracy: 99.014% | Loss: 116.362
+Epoch: 017 | Test accuracy: 79.861% | Train accuracy: 98.274% | Loss: 37.210
+Epoch: 018 | Test accuracy: 78.472% | Train accuracy: 99.260% | Loss: 31.288
+Epoch: 019 | Test accuracy: 75.000% | Train accuracy: 99.014% | Loss: 47.316
+Epoch: 020 | Test accuracy: 80.556% | Train accuracy: 98.027% | Loss: 41.135
+Epoch: 021 | Test accuracy: 80.556% | Train accuracy: 99.260% | Loss: 33.660
+Epoch: 022 | Test accuracy: 81.250% | Train accuracy: 99.383% | Loss: 39.191
+Epoch: 023 | Test accuracy: 84.722% | Train accuracy: 98.520% | Loss: 18.268
+Epoch: 024 | Test accuracy: 81.250% | Train accuracy: 99.630% | Loss: 17.825
+Epoch: 025 | Test accuracy: 82.639% | Train accuracy: 99.630% | Loss: 56.432
+Epoch: 026 | Test accuracy: 74.306% | Train accuracy: 99.014% | Loss: 17.224
+Epoch: 027 | Test accuracy: 78.472% | Train accuracy: 99.630% | Loss: 21.687
+Epoch: 028 | Test accuracy: 79.861% | Train accuracy: 99.630% | Loss: 10.446
+Epoch: 029 | Test accuracy: 75.694% | Train accuracy: 99.137% | Loss: 37.510
+Epoch: 030 | Test accuracy: 72.917% | Train accuracy: 98.890% | Loss: 43.494
+Epoch: 031 | Test accuracy: 80.556% | Train accuracy: 98.150% | Loss: 35.461
+Epoch: 032 | Test accuracy: 81.250% | Train accuracy: 99.753% | Loss: 20.415
+Epoch: 033 | Test accuracy: 75.694% | Train accuracy: 99.014% | Loss: 52.770
+Epoch: 034 | Test accuracy: 77.083% | Train accuracy: 99.630% | Loss: 35.715
+Epoch: 035 | Test accuracy: 79.167% | Train accuracy: 99.877% | Loss: 15.347
+Epoch: 036 | Test accuracy: 81.944% | Train accuracy: 100.000% | Loss: 11.623
+Epoch: 037 | Test accuracy: 82.639% | Train accuracy: 99.753% | Loss: 9.587
+Epoch: 038 | Test accuracy: 83.333% | Train accuracy: 99.753% | Loss: 0.848
+Epoch: 039 | Test accuracy: 77.083% | Train accuracy: 98.890% | Loss: 3.116
+Epoch: 040 | Test accuracy: 81.250% | Train accuracy: 99.260% | Loss: 45.728
+Epoch: 041 | Test accuracy: 78.472% | Train accuracy: 99.507% | Loss: 9.776
+Epoch: 042 | Test accuracy: 77.083% | Train accuracy: 99.383% | Loss: 18.086
+Epoch: 043 | Test accuracy: 81.250% | Train accuracy: 98.027% | Loss: 40.259
+Epoch: 044 | Test accuracy: 80.556% | Train accuracy: 99.753% | Loss: 22.056
+Epoch: 045 | Test accuracy: 78.472% | Train accuracy: 100.000% | Loss: 8.157
+Epoch: 046 | Test accuracy: 80.556% | Train accuracy: 99.630% | Loss: 3.018
+Epoch: 047 | Test accuracy: 75.694% | Train accuracy: 95.438% | Loss: 13.598
+Epoch: 048 | Test accuracy: 83.333% | Train accuracy: 100.000% | Loss: 5.597
+Epoch: 049 | Test accuracy: 81.944% | Train accuracy: 100.000% | Loss: 1.846
+Epoch: 050 | Test accuracy: 84.028% | Train accuracy: 100.000% | Loss: 0.267
+
+Loss: [2397.178702622652, 949.924443602562, 507.88674223423004, 285.2274131588638, 137.48122665286064, 122.40085238218307, 149.32766468822956, 73.72761930525303, 90.0137274377048, 28.321387484669685, 84.03460181504488, 151.19171424675733, 51.56544482707977, 40.34912306070328, 17.92214742861688, 116.3615210223943, 37.20959930866957, 31.288451224565506, 47.31568033620715, 41.134553983807564, 33.65973813831806, 39.190513463225216, 18.268252320587635, 17.82541385293007, 56.43192233145237, 17.223597437143326, 21.686820030212402, 10.445631504058838, 37.51008480694145, 43.49387229792774, 35.46134144067764, 20.41497778892517, 52.7696179151535, 35.715242475271225, 15.3472640812397, 11.622553288936615, 9.586938381195068, 0.8477942943572998, 3.1163394898176193, 45.72810813784599, 9.775904074311256, 18.086225863546133, 40.258539974689484, 22.055912747979164, 8.156793147325516, 3.018408179283142, 13.598463524132967, 5.596639335155487, 1.8461982607841492, 0.2673638314008713]
+Test: [34.02777777777778, 64.58333333333334, 64.58333333333334, 72.22222222222221, 68.75, 68.05555555555556, 69.44444444444444, 70.13888888888889, 72.22222222222221, 75.69444444444444, 70.83333333333334, 70.83333333333334, 79.86111111111111, 71.52777777777779, 79.86111111111111, 76.38888888888889, 79.86111111111111, 78.47222222222221, 75.0, 80.55555555555556, 80.55555555555556, 81.25, 84.72222222222221, 81.25, 82.63888888888889, 74.30555555555556, 78.47222222222221, 79.86111111111111, 75.69444444444444, 72.91666666666666, 80.55555555555556, 81.25, 75.69444444444444, 77.08333333333334, 79.16666666666666, 81.94444444444444, 82.63888888888889, 83.33333333333334, 77.08333333333334, 81.25, 78.47222222222221, 77.08333333333334, 81.25, 80.55555555555556, 78.47222222222221, 80.55555555555556, 75.69444444444444, 83.33333333333334, 81.94444444444444, 84.02777777777779]
+Train: [55.363748458692974, 82.98397040690506, 90.13563501849569, 93.9580764488286, 95.80764488286067, 96.05425400739827, 96.54747225647348, 95.31442663378546, 96.6707768187423, 98.76695437731196, 95.31442663378546, 97.28729963008631, 99.13686806411837, 97.16399506781751, 99.75339087546239, 99.01356350184956, 98.27373612823675, 99.26017262638717, 99.01356350184956, 98.02712700369914, 99.26017262638717, 99.38347718865597, 98.52034525277435, 99.63008631319359, 99.63008631319359, 99.01356350184956, 99.63008631319359, 99.63008631319359, 99.13686806411837, 98.89025893958076, 98.15043156596795, 99.75339087546239, 99.01356350184956, 99.63008631319359, 99.8766954377312, 100.0, 99.75339087546239, 99.75339087546239, 98.89025893958076, 99.26017262638717, 99.50678175092479, 99.38347718865597, 98.02712700369914, 99.75339087546239, 100.0, 99.63008631319359, 95.43773119605426, 100.0, 100.0, 100.0]
+
+Training ended: 14/01/2020 23:04:03
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Training started: 14/01/2020 23:04:20
+
+Number of classes: 10 | Number of epochs: 50
+Batch size: 1 | Learning rate: 0.001
+Training data size: 811 | Test data size: 144
+
+Epoch: 000 | Test accuracy: 6.944% | Train accuracy: 4.562%
+Epoch: 001 | Test accuracy: 49.306% | Train accuracy: 65.475% | Loss: 2178.664
+Epoch: 002 | Test accuracy: 59.722% | Train accuracy: 86.930% | Loss: 703.273
+Epoch: 003 | Test accuracy: 71.528% | Train accuracy: 93.095% | Loss: 320.054
+Epoch: 004 | Test accuracy: 72.222% | Train accuracy: 91.369% | Loss: 181.624
+Epoch: 005 | Test accuracy: 77.778% | Train accuracy: 94.698% | Loss: 106.150
+Epoch: 006 | Test accuracy: 68.750% | Train accuracy: 91.615% | Loss: 139.347
+Epoch: 007 | Test accuracy: 77.083% | Train accuracy: 98.150% | Loss: 215.516
+Epoch: 008 | Test accuracy: 80.556% | Train accuracy: 99.383% | Loss: 93.346
+Epoch: 009 | Test accuracy: 83.333% | Train accuracy: 95.684% | Loss: 40.552
+Epoch: 010 | Test accuracy: 79.861% | Train accuracy: 98.027% | Loss: 119.485
+Epoch: 011 | Test accuracy: 82.639% | Train accuracy: 98.150% | Loss: 82.473
+Epoch: 012 | Test accuracy: 79.167% | Train accuracy: 98.890% | Loss: 44.248
+Epoch: 013 | Test accuracy: 82.639% | Train accuracy: 96.794% | Loss: 114.735
+Epoch: 014 | Test accuracy: 81.944% | Train accuracy: 99.137% | Loss: 62.015
+Epoch: 015 | Test accuracy: 84.722% | Train accuracy: 95.438% | Loss: 41.085
+Epoch: 016 | Test accuracy: 81.944% | Train accuracy: 97.657% | Loss: 54.435
+Epoch: 017 | Test accuracy: 85.417% | Train accuracy: 98.150% | Loss: 82.618
+Epoch: 018 | Test accuracy: 84.028% | Train accuracy: 98.644% | Loss: 86.968
+Epoch: 019 | Test accuracy: 87.500% | Train accuracy: 99.630% | Loss: 48.032
+Epoch: 020 | Test accuracy: 84.722% | Train accuracy: 98.520% | Loss: 45.276
+Epoch: 021 | Test accuracy: 88.889% | Train accuracy: 99.014% | Loss: 53.604
+Epoch: 022 | Test accuracy: 84.028% | Train accuracy: 99.137% | Loss: 30.226
+Epoch: 023 | Test accuracy: 80.556% | Train accuracy: 98.520% | Loss: 19.265
+Epoch: 024 | Test accuracy: 75.000% | Train accuracy: 96.178% | Loss: 92.416
+Epoch: 025 | Test accuracy: 84.028% | Train accuracy: 99.507% | Loss: 27.791
+Epoch: 026 | Test accuracy: 83.333% | Train accuracy: 99.630% | Loss: 17.717
+Epoch: 027 | Test accuracy: 85.417% | Train accuracy: 99.507% | Loss: 13.092
+Epoch: 028 | Test accuracy: 86.806% | Train accuracy: 99.260% | Loss: 79.627
+Epoch: 029 | Test accuracy: 81.250% | Train accuracy: 96.671% | Loss: 56.399
+Epoch: 030 | Test accuracy: 89.583% | Train accuracy: 99.753% | Loss: 18.925
+Epoch: 031 | Test accuracy: 85.417% | Train accuracy: 100.000% | Loss: 0.504
+Epoch: 032 | Test accuracy: 88.194% | Train accuracy: 100.000% | Loss: 1.958
+Epoch: 033 | Test accuracy: 81.250% | Train accuracy: 97.904% | Loss: 83.309
+Epoch: 034 | Test accuracy: 80.556% | Train accuracy: 98.767% | Loss: 36.365
+Epoch: 035 | Test accuracy: 81.944% | Train accuracy: 98.274% | Loss: 32.357
+Epoch: 036 | Test accuracy: 84.028% | Train accuracy: 99.877% | Loss: 39.050
+Epoch: 037 | Test accuracy: 85.417% | Train accuracy: 99.753% | Loss: 20.559
+Epoch: 038 | Test accuracy: 86.806% | Train accuracy: 99.383% | Loss: 6.566
+Epoch: 039 | Test accuracy: 84.028% | Train accuracy: 99.877% | Loss: 7.737
+Epoch: 040 | Test accuracy: 86.111% | Train accuracy: 99.507% | Loss: 17.407
+Epoch: 041 | Test accuracy: 86.111% | Train accuracy: 99.753% | Loss: 18.829
+Epoch: 042 | Test accuracy: 83.333% | Train accuracy: 98.274% | Loss: 27.612
+Epoch: 043 | Test accuracy: 83.333% | Train accuracy: 99.014% | Loss: 58.143
+Epoch: 044 | Test accuracy: 86.111% | Train accuracy: 98.397% | Loss: 40.891
+Epoch: 045 | Test accuracy: 81.944% | Train accuracy: 98.520% | Loss: 10.534
+Epoch: 046 | Test accuracy: 87.500% | Train accuracy: 100.000% | Loss: 26.732
+Epoch: 047 | Test accuracy: 88.889% | Train accuracy: 100.000% | Loss: 0.188
+Epoch: 048 | Test accuracy: 90.972% | Train accuracy: 99.753% | Loss: 9.809
+Epoch: 049 | Test accuracy: 88.889% | Train accuracy: 100.000% | Loss: 0.046
+Epoch: 050 | Test accuracy: 89.583% | Train accuracy: 100.000% | Loss: 0.063
+
+Loss: [2178.663807120174, 703.2727257013321, 320.05389150232077, 181.62354591395706, 106.15038209035993, 139.34692981094122, 215.5162634551525, 93.34624361991882, 40.5521717146039, 119.48535515740514, 82.47272856533527, 44.24794035218656, 114.73548661917448, 62.01498708128929, 41.08469709090423, 54.43478760123253, 82.61836743913591, 86.96797136217356, 48.03176977485418, 45.27579886466265, 53.604043832048774, 30.225535452365875, 19.265271589159966, 92.41597902029753, 27.791002333164215, 17.717394426465034, 13.09248811006546, 79.62653678655624, 56.39872923493385, 18.925286516547203, 0.5044347941875458, 1.9578192830085754, 83.30867877602577, 36.3653205037117, 32.35684518516064, 39.04960258305073, 20.55933939665556, 6.5664079785346985, 7.736507892608643, 17.40697231888771, 18.828606247901917, 27.612129021435976, 58.142892211675644, 40.891376569867134, 10.533647157251835, 26.73150897026062, 0.18823277950286865, 9.809349596500397, 0.0464915856719017, 0.0628194808959961]
+Test: [49.30555555555556, 59.72222222222222, 71.52777777777779, 72.22222222222221, 77.77777777777779, 68.75, 77.08333333333334, 80.55555555555556, 83.33333333333334, 79.86111111111111, 82.63888888888889, 79.16666666666666, 82.63888888888889, 81.94444444444444, 84.72222222222221, 81.94444444444444, 85.41666666666666, 84.02777777777779, 87.5, 84.72222222222221, 88.88888888888889, 84.02777777777779, 80.55555555555556, 75.0, 84.02777777777779, 83.33333333333334, 85.41666666666666, 86.80555555555556, 81.25, 89.58333333333334, 85.41666666666666, 88.19444444444444, 81.25, 80.55555555555556, 81.94444444444444, 84.02777777777779, 85.41666666666666, 86.80555555555556, 84.02777777777779, 86.11111111111111, 86.11111111111111, 83.33333333333334, 83.33333333333334, 86.11111111111111, 81.94444444444444, 87.5, 88.88888888888889, 90.97222222222221, 88.88888888888889, 89.58333333333334]
+Train: [65.4747225647349, 86.92971639950679, 93.09494451294698, 91.36868064118372, 94.69790382244143, 91.61528976572133, 98.15043156596795, 99.38347718865597, 95.68434032059187, 98.02712700369914, 98.15043156596795, 98.89025893958076, 96.7940813810111, 99.13686806411837, 95.43773119605426, 97.65721331689272, 98.15043156596795, 98.64364981504316, 99.63008631319359, 98.52034525277435, 99.01356350184956, 99.13686806411837, 98.52034525277435, 96.17755856966707, 99.50678175092479, 99.63008631319359, 99.50678175092479, 99.26017262638717, 96.6707768187423, 99.75339087546239, 100.0, 100.0, 97.90382244143034, 98.76695437731196, 98.27373612823675, 99.8766954377312, 99.75339087546239, 99.38347718865597, 99.8766954377312, 99.50678175092479, 99.75339087546239, 98.27373612823675, 99.01356350184956, 98.39704069050555, 98.52034525277435, 100.0, 100.0, 99.75339087546239, 100.0, 100.0]
+
+Training ended: 14/01/2020 23:41:28
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Training started: 14/01/2020 23:41:41
+
+Number of classes: 10 | Number of epochs: 50
+Batch size: 1 | Learning rate: 0.001
+Training data size: 811 | Test data size: 144
+
+Epoch: 000 | Test accuracy: 11.111% | Train accuracy: 11.467%
+Epoch: 001 | Test accuracy: 17.361% | Train accuracy: 43.157% | Loss: 2373.311
+Epoch: 002 | Test accuracy: 56.944% | Train accuracy: 82.121% | Loss: 1144.003
+Epoch: 003 | Test accuracy: 66.667% | Train accuracy: 93.835% | Loss: 427.491
+Epoch: 004 | Test accuracy: 72.917% | Train accuracy: 97.411% | Loss: 188.644
+Epoch: 005 | Test accuracy: 75.000% | Train accuracy: 98.150% | Loss: 67.979
+Epoch: 006 | Test accuracy: 71.528% | Train accuracy: 96.054% | Loss: 49.174
+Epoch: 007 | Test accuracy: 63.889% | Train accuracy: 90.259% | Loss: 65.185
+Epoch: 008 | Test accuracy: 71.528% | Train accuracy: 93.465% | Loss: 90.507
+Epoch: 009 | Test accuracy: 68.750% | Train accuracy: 94.698% | Loss: 67.393
+Epoch: 010 | Test accuracy: 77.778% | Train accuracy: 98.027% | Loss: 47.052
+Epoch: 011 | Test accuracy: 74.306% | Train accuracy: 96.917% | Loss: 58.476
+Epoch: 012 | Test accuracy: 74.306% | Train accuracy: 98.150% | Loss: 51.804
+Epoch: 013 | Test accuracy: 79.861% | Train accuracy: 100.000% | Loss: 46.768
+Epoch: 014 | Test accuracy: 77.778% | Train accuracy: 98.644% | Loss: 22.035
+Epoch: 015 | Test accuracy: 86.111% | Train accuracy: 99.877% | Loss: 22.878
+Epoch: 016 | Test accuracy: 79.861% | Train accuracy: 99.630% | Loss: 50.763
+Epoch: 017 | Test accuracy: 84.722% | Train accuracy: 100.000% | Loss: 2.275
+Epoch: 018 | Test accuracy: 84.722% | Train accuracy: 100.000% | Loss: 0.566
+Epoch: 019 | Test accuracy: 77.778% | Train accuracy: 98.890% | Loss: 89.724
+Epoch: 020 | Test accuracy: 83.333% | Train accuracy: 99.877% | Loss: 60.682
+Epoch: 021 | Test accuracy: 80.556% | Train accuracy: 100.000% | Loss: 2.798
+Epoch: 022 | Test accuracy: 80.556% | Train accuracy: 99.137% | Loss: 36.939
+Epoch: 023 | Test accuracy: 84.722% | Train accuracy: 99.753% | Loss: 12.219
+Epoch: 024 | Test accuracy: 85.417% | Train accuracy: 100.000% | Loss: 6.994
+Epoch: 025 | Test accuracy: 66.667% | Train accuracy: 91.739% | Loss: 18.012
+Epoch: 026 | Test accuracy: 85.417% | Train accuracy: 100.000% | Loss: 8.047
+Epoch: 027 | Test accuracy: 84.028% | Train accuracy: 99.383% | Loss: 32.657
+Epoch: 028 | Test accuracy: 88.889% | Train accuracy: 100.000% | Loss: 13.094
+Epoch: 029 | Test accuracy: 90.278% | Train accuracy: 100.000% | Loss: 0.123
+Epoch: 030 | Test accuracy: 87.500% | Train accuracy: 100.000% | Loss: 0.109
+Epoch: 031 | Test accuracy: 86.111% | Train accuracy: 100.000% | Loss: 0.053
+Epoch: 032 | Test accuracy: 83.333% | Train accuracy: 100.000% | Loss: 0.111
+Epoch: 033 | Test accuracy: 86.806% | Train accuracy: 99.383% | Loss: 81.143
+Epoch: 034 | Test accuracy: 79.861% | Train accuracy: 99.877% | Loss: 10.152
+Epoch: 035 | Test accuracy: 84.028% | Train accuracy: 100.000% | Loss: 2.951
+Epoch: 036 | Test accuracy: 84.722% | Train accuracy: 99.877% | Loss: 0.290
+Epoch: 037 | Test accuracy: 84.722% | Train accuracy: 100.000% | Loss: 0.173
+Epoch: 038 | Test accuracy: 84.722% | Train accuracy: 100.000% | Loss: 0.188
+Epoch: 039 | Test accuracy: 78.472% | Train accuracy: 98.767% | Loss: 33.613
+Epoch: 040 | Test accuracy: 81.250% | Train accuracy: 99.137% | Loss: 18.835
+Epoch: 041 | Test accuracy: 86.111% | Train accuracy: 100.000% | Loss: 0.792
+Epoch: 042 | Test accuracy: 87.500% | Train accuracy: 99.753% | Loss: 11.583
+Epoch: 043 | Test accuracy: 88.194% | Train accuracy: 99.753% | Loss: 3.535
+Epoch: 044 | Test accuracy: 88.889% | Train accuracy: 100.000% | Loss: 0.097
+Epoch: 045 | Test accuracy: 88.194% | Train accuracy: 99.877% | Loss: 0.021
+Epoch: 046 | Test accuracy: 90.278% | Train accuracy: 100.000% | Loss: 0.044
+Epoch: 047 | Test accuracy: 88.194% | Train accuracy: 100.000% | Loss: 0.032
+Epoch: 048 | Test accuracy: 88.194% | Train accuracy: 100.000% | Loss: 0.052
+Epoch: 049 | Test accuracy: 88.889% | Train accuracy: 100.000% | Loss: 0.033
+Epoch: 050 | Test accuracy: 90.972% | Train accuracy: 100.000% | Loss: 0.013
+
+Loss: [2373.3108486682177, 1144.0027249902487, 427.4911887869239, 188.64372208714485, 67.9790920689702, 49.17430351674557, 65.18450660258532, 90.50682061910629, 67.39335195720196, 47.05191267281771, 58.47626110911369, 51.80361610651016, 46.7679835408926, 22.035339429974556, 22.87788163125515, 50.76285666227341, 2.275206096470356, 0.5658370489254594, 89.7240115404129, 60.681820360943675, 2.798340577632189, 36.939277812838554, 12.219009000808, 6.993758320808411, 18.011823289096355, 8.046729817986488, 32.65653772652149, 13.093989446759224, 0.12329232692718506, 0.10923194885253906, 0.05276334285736084, 0.11118572950363159, 81.14264249429107, 10.152377285063267, 2.9510123133659363, 0.2902231588959694, 0.1732029914855957, 0.1875811368227005, 33.6131175160408, 18.83549604564905, 0.7923741638660431, 11.582672215998173, 3.5350322471931577, 0.09738222882151604, 0.021238550543785095, 0.043636202812194824, 0.03166532516479492, 0.05198797769844532, 0.03313607722520828, 0.013254404067993164]
+Test: [17.36111111111111, 56.94444444444444, 66.66666666666666, 72.91666666666666, 75.0, 71.52777777777779, 63.888888888888886, 71.52777777777779, 68.75, 77.77777777777779, 74.30555555555556, 74.30555555555556, 79.86111111111111, 77.77777777777779, 86.11111111111111, 79.86111111111111, 84.72222222222221, 84.72222222222221, 77.77777777777779, 83.33333333333334, 80.55555555555556, 80.55555555555556, 84.72222222222221, 85.41666666666666, 66.66666666666666, 85.41666666666666, 84.02777777777779, 88.88888888888889, 90.27777777777779, 87.5, 86.11111111111111, 83.33333333333334, 86.80555555555556, 79.86111111111111, 84.02777777777779, 84.72222222222221, 84.72222222222221, 84.72222222222221, 78.47222222222221, 81.25, 86.11111111111111, 87.5, 88.19444444444444, 88.88888888888889, 88.19444444444444, 90.27777777777779, 88.19444444444444, 88.19444444444444, 88.88888888888889, 90.97222222222221]
+Train: [43.15659679408138, 82.12083847102343, 93.83477188655979, 97.41060419235512, 98.15043156596795, 96.05425400739827, 90.25893958076449, 93.4648581997534, 94.69790382244143, 98.02712700369914, 96.9173859432799, 98.15043156596795, 100.0, 98.64364981504316, 99.8766954377312, 99.63008631319359, 100.0, 100.0, 98.89025893958076, 99.8766954377312, 100.0, 99.13686806411837, 99.75339087546239, 100.0, 91.73859432799013, 100.0, 99.38347718865597, 100.0, 100.0, 100.0, 100.0, 100.0, 99.38347718865597, 99.8766954377312, 100.0, 99.8766954377312, 100.0, 100.0, 98.76695437731196, 99.13686806411837, 100.0, 99.75339087546239, 99.75339087546239, 100.0, 99.8766954377312, 100.0, 100.0, 100.0, 100.0, 100.0]
+
+Training ended: 15/01/2020 00:18:25
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Training started: 15/01/2020 00:18:40
+
+Number of classes: 10 | Number of epochs: 50
+Batch size: 1 | Learning rate: 0.001
+Training data size: 811 | Test data size: 144
+
+Epoch: 000 | Test accuracy: 6.944% | Train accuracy: 7.522%
+Epoch: 001 | Test accuracy: 39.583% | Train accuracy: 63.872% | Loss: 2032.438
+Epoch: 002 | Test accuracy: 59.028% | Train accuracy: 89.149% | Loss: 733.563
+Epoch: 003 | Test accuracy: 67.361% | Train accuracy: 93.342% | Loss: 366.385
+Epoch: 004 | Test accuracy: 64.583% | Train accuracy: 91.245% | Loss: 182.051
+Epoch: 005 | Test accuracy: 65.972% | Train accuracy: 96.917% | Loss: 163.560
+Epoch: 006 | Test accuracy: 63.194% | Train accuracy: 94.945% | Loss: 119.098
+Epoch: 007 | Test accuracy: 63.889% | Train accuracy: 95.931% | Loss: 135.839
+Epoch: 008 | Test accuracy: 66.667% | Train accuracy: 97.287% | Loss: 80.078
+Epoch: 009 | Test accuracy: 72.222% | Train accuracy: 98.520% | Loss: 91.400
+Epoch: 010 | Test accuracy: 73.611% | Train accuracy: 98.520% | Loss: 57.106
+Epoch: 011 | Test accuracy: 61.111% | Train accuracy: 91.985% | Loss: 77.770
+Epoch: 012 | Test accuracy: 70.139% | Train accuracy: 96.301% | Loss: 83.326
+Epoch: 013 | Test accuracy: 75.000% | Train accuracy: 99.507% | Loss: 52.366
+Epoch: 014 | Test accuracy: 68.750% | Train accuracy: 96.671% | Loss: 21.491
+Epoch: 015 | Test accuracy: 72.222% | Train accuracy: 96.547% | Loss: 109.974
+Epoch: 016 | Test accuracy: 69.444% | Train accuracy: 94.081% | Loss: 43.241
+Epoch: 017 | Test accuracy: 70.833% | Train accuracy: 98.274% | Loss: 53.718
+Epoch: 018 | Test accuracy: 76.389% | Train accuracy: 99.137% | Loss: 50.040
+Epoch: 019 | Test accuracy: 73.611% | Train accuracy: 99.260% | Loss: 70.676
+Epoch: 020 | Test accuracy: 75.000% | Train accuracy: 99.383% | Loss: 25.714
+Epoch: 021 | Test accuracy: 72.222% | Train accuracy: 98.644% | Loss: 26.922
+Epoch: 022 | Test accuracy: 64.583% | Train accuracy: 94.821% | Loss: 53.621
+Epoch: 023 | Test accuracy: 75.694% | Train accuracy: 99.260% | Loss: 73.346
+Epoch: 024 | Test accuracy: 77.778% | Train accuracy: 98.150% | Loss: 28.484
+Epoch: 025 | Test accuracy: 77.778% | Train accuracy: 99.630% | Loss: 20.879
+Epoch: 026 | Test accuracy: 75.694% | Train accuracy: 98.890% | Loss: 22.064
+Epoch: 027 | Test accuracy: 74.306% | Train accuracy: 98.767% | Loss: 29.447
+Epoch: 028 | Test accuracy: 75.000% | Train accuracy: 98.767% | Loss: 21.254
+Epoch: 029 | Test accuracy: 74.306% | Train accuracy: 99.137% | Loss: 45.123
+Epoch: 030 | Test accuracy: 79.167% | Train accuracy: 99.014% | Loss: 31.812
+Epoch: 031 | Test accuracy: 72.917% | Train accuracy: 99.137% | Loss: 36.400
+Epoch: 032 | Test accuracy: 76.389% | Train accuracy: 99.260% | Loss: 17.316
+Epoch: 033 | Test accuracy: 77.083% | Train accuracy: 99.877% | Loss: 14.218
+Epoch: 034 | Test accuracy: 74.306% | Train accuracy: 97.657% | Loss: 27.403
+Epoch: 035 | Test accuracy: 71.528% | Train accuracy: 99.260% | Loss: 12.824
+Epoch: 036 | Test accuracy: 72.917% | Train accuracy: 97.287% | Loss: 35.834
+Epoch: 037 | Test accuracy: 74.306% | Train accuracy: 99.507% | Loss: 54.873
+Epoch: 038 | Test accuracy: 77.778% | Train accuracy: 99.137% | Loss: 16.011
+Epoch: 039 | Test accuracy: 79.861% | Train accuracy: 99.014% | Loss: 49.534
+Epoch: 040 | Test accuracy: 77.778% | Train accuracy: 99.753% | Loss: 18.470
+Epoch: 041 | Test accuracy: 77.083% | Train accuracy: 99.260% | Loss: 6.082
+Epoch: 042 | Test accuracy: 79.861% | Train accuracy: 99.877% | Loss: 14.610
+Epoch: 043 | Test accuracy: 79.167% | Train accuracy: 99.753% | Loss: 27.226
+Epoch: 044 | Test accuracy: 76.389% | Train accuracy: 99.014% | Loss: 41.727
+Epoch: 045 | Test accuracy: 81.250% | Train accuracy: 99.507% | Loss: 9.842
+Epoch: 046 | Test accuracy: 79.167% | Train accuracy: 99.877% | Loss: 9.615
+Epoch: 047 | Test accuracy: 80.556% | Train accuracy: 99.630% | Loss: 6.886
+Epoch: 048 | Test accuracy: 77.778% | Train accuracy: 99.877% | Loss: 33.592
+Epoch: 049 | Test accuracy: 79.861% | Train accuracy: 100.000% | Loss: 1.133
+Epoch: 050 | Test accuracy: 79.861% | Train accuracy: 99.630% | Loss: 0.980
+
+Loss: [2032.4375286772847, 733.5627997815609, 366.38536534272134, 182.05148227978498, 163.55974221602082, 119.09761118888855, 135.83909662812948, 80.07784134335816, 91.39995860308409, 57.105957955121994, 77.76968318223953, 83.32557024806738, 52.365521878004074, 21.490994919091463, 109.97445477172732, 43.24091063439846, 53.71796095371246, 50.040249451994896, 70.675587605685, 25.713970098644495, 26.921665348112583, 53.620843052864075, 73.34631153941154, 28.48412850499153, 20.879315942525864, 22.06446626689285, 29.447052650153637, 21.254484862089157, 45.1234855055809, 31.81195978820324, 36.400096371769905, 17.315743386745453, 14.217991381883621, 27.403143722563982, 12.82396450638771, 35.83398625254631, 54.872566521167755, 16.01050490140915, 49.53379422426224, 18.470356062054634, 6.081901088356972, 14.610312052071095, 27.226361751556396, 41.72678393125534, 9.842232763767242, 9.615354023873806, 6.886078834533691, 33.59207999706268, 1.133219838142395, 0.9800600409507751]
+Test: [39.58333333333333, 59.02777777777778, 67.36111111111111, 64.58333333333334, 65.97222222222221, 63.19444444444444, 63.888888888888886, 66.66666666666666, 72.22222222222221, 73.61111111111111, 61.111111111111114, 70.13888888888889, 75.0, 68.75, 72.22222222222221, 69.44444444444444, 70.83333333333334, 76.38888888888889, 73.61111111111111, 75.0, 72.22222222222221, 64.58333333333334, 75.69444444444444, 77.77777777777779, 77.77777777777779, 75.69444444444444, 74.30555555555556, 75.0, 74.30555555555556, 79.16666666666666, 72.91666666666666, 76.38888888888889, 77.08333333333334, 74.30555555555556, 71.52777777777779, 72.91666666666666, 74.30555555555556, 77.77777777777779, 79.86111111111111, 77.77777777777779, 77.08333333333334, 79.86111111111111, 79.16666666666666, 76.38888888888889, 81.25, 79.16666666666666, 80.55555555555556, 77.77777777777779, 79.86111111111111, 79.86111111111111]
+Train: [63.871763255240445, 89.14919852034525, 93.34155363748458, 91.24537607891492, 96.9173859432799, 94.94451294697905, 95.93094944512947, 97.28729963008631, 98.52034525277435, 98.52034525277435, 91.98520345252774, 96.30086313193587, 99.50678175092479, 96.6707768187423, 96.54747225647348, 94.0813810110974, 98.27373612823675, 99.13686806411837, 99.26017262638717, 99.38347718865597, 98.64364981504316, 94.82120838471023, 99.26017262638717, 98.15043156596795, 99.63008631319359, 98.89025893958076, 98.76695437731196, 98.76695437731196, 99.13686806411837, 99.01356350184956, 99.13686806411837, 99.26017262638717, 99.8766954377312, 97.65721331689272, 99.26017262638717, 97.28729963008631, 99.50678175092479, 99.13686806411837, 99.01356350184956, 99.75339087546239, 99.26017262638717, 99.8766954377312, 99.75339087546239, 99.01356350184956, 99.50678175092479, 99.8766954377312, 99.63008631319359, 99.8766954377312, 100.0, 99.63008631319359]
+
+Training ended: 15/01/2020 00:55:26
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Training started: 15/01/2020 00:55:42
+
+Number of classes: 10 | Number of epochs: 50
+Batch size: 1 | Learning rate: 0.001
+Training data size: 811 | Test data size: 144
+
+Epoch: 000 | Test accuracy: 9.028% | Train accuracy: 9.741%
+Epoch: 001 | Test accuracy: 26.389% | Train accuracy: 42.663% | Loss: 2406.572
+Epoch: 002 | Test accuracy: 46.528% | Train accuracy: 68.311% | Loss: 1272.938
+Epoch: 003 | Test accuracy: 65.972% | Train accuracy: 87.053% | Loss: 780.388
+Epoch: 004 | Test accuracy: 72.222% | Train accuracy: 93.342% | Loss: 363.777
+Epoch: 005 | Test accuracy: 77.083% | Train accuracy: 97.904% | Loss: 169.890
+Epoch: 006 | Test accuracy: 77.083% | Train accuracy: 97.657% | Loss: 104.889
+Epoch: 007 | Test accuracy: 77.083% | Train accuracy: 97.781% | Loss: 106.985
+Epoch: 008 | Test accuracy: 77.778% | Train accuracy: 98.767% | Loss: 57.545
+Epoch: 009 | Test accuracy: 79.167% | Train accuracy: 98.397% | Loss: 49.946
+Epoch: 010 | Test accuracy: 84.722% | Train accuracy: 99.137% | Loss: 96.302
+Epoch: 011 | Test accuracy: 81.944% | Train accuracy: 98.520% | Loss: 51.861
+Epoch: 012 | Test accuracy: 68.750% | Train accuracy: 96.178% | Loss: 74.409
+Epoch: 013 | Test accuracy: 74.306% | Train accuracy: 95.808% | Loss: 83.236
+Epoch: 014 | Test accuracy: 84.028% | Train accuracy: 100.000% | Loss: 46.242
+Epoch: 015 | Test accuracy: 80.556% | Train accuracy: 98.027% | Loss: 16.388
+Epoch: 016 | Test accuracy: 75.000% | Train accuracy: 93.342% | Loss: 67.350
+Epoch: 017 | Test accuracy: 83.333% | Train accuracy: 99.753% | Loss: 15.726
+Epoch: 018 | Test accuracy: 81.944% | Train accuracy: 100.000% | Loss: 12.987
+Epoch: 019 | Test accuracy: 86.111% | Train accuracy: 100.000% | Loss: 2.307
+Epoch: 020 | Test accuracy: 81.944% | Train accuracy: 100.000% | Loss: 1.869
+Epoch: 021 | Test accuracy: 79.861% | Train accuracy: 98.767% | Loss: 150.566
+Epoch: 022 | Test accuracy: 79.167% | Train accuracy: 97.657% | Loss: 47.915
+Epoch: 023 | Test accuracy: 81.944% | Train accuracy: 99.383% | Loss: 71.804
+Epoch: 024 | Test accuracy: 83.333% | Train accuracy: 99.877% | Loss: 8.000
+Epoch: 025 | Test accuracy: 85.417% | Train accuracy: 99.877% | Loss: 21.381
+Epoch: 026 | Test accuracy: 78.472% | Train accuracy: 99.137% | Loss: 33.523
+Epoch: 027 | Test accuracy: 81.250% | Train accuracy: 99.630% | Loss: 56.780
+Epoch: 028 | Test accuracy: 80.556% | Train accuracy: 98.274% | Loss: 23.055
+Epoch: 029 | Test accuracy: 83.333% | Train accuracy: 99.137% | Loss: 15.338
+Epoch: 030 | Test accuracy: 86.806% | Train accuracy: 99.877% | Loss: 9.203
+Epoch: 031 | Test accuracy: 65.972% | Train accuracy: 87.793% | Loss: 15.911
+Epoch: 032 | Test accuracy: 83.333% | Train accuracy: 99.137% | Loss: 58.248
+Epoch: 033 | Test accuracy: 83.333% | Train accuracy: 99.383% | Loss: 28.850
+Epoch: 034 | Test accuracy: 84.722% | Train accuracy: 99.753% | Loss: 12.129
+Epoch: 035 | Test accuracy: 83.333% | Train accuracy: 99.137% | Loss: 51.778
+Epoch: 036 | Test accuracy: 84.028% | Train accuracy: 99.877% | Loss: 18.670
+Epoch: 037 | Test accuracy: 83.333% | Train accuracy: 99.383% | Loss: 8.559
+Epoch: 038 | Test accuracy: 82.639% | Train accuracy: 99.877% | Loss: 16.825
+Epoch: 039 | Test accuracy: 82.639% | Train accuracy: 99.877% | Loss: 8.685
+Epoch: 040 | Test accuracy: 86.806% | Train accuracy: 99.507% | Loss: 51.741
+Epoch: 041 | Test accuracy: 88.889% | Train accuracy: 99.877% | Loss: 14.689
+Epoch: 042 | Test accuracy: 86.806% | Train accuracy: 100.000% | Loss: 13.470
+Epoch: 043 | Test accuracy: 85.417% | Train accuracy: 99.507% | Loss: 26.790
+Epoch: 044 | Test accuracy: 83.333% | Train accuracy: 99.877% | Loss: 21.471
+Epoch: 045 | Test accuracy: 84.722% | Train accuracy: 99.383% | Loss: 28.405
+Epoch: 046 | Test accuracy: 84.028% | Train accuracy: 99.507% | Loss: 10.159
+Epoch: 047 | Test accuracy: 81.944% | Train accuracy: 99.137% | Loss: 5.251
+Epoch: 048 | Test accuracy: 81.250% | Train accuracy: 99.137% | Loss: 12.910
+Epoch: 049 | Test accuracy: 79.861% | Train accuracy: 99.260% | Loss: 16.775
+Epoch: 050 | Test accuracy: 78.472% | Train accuracy: 96.301% | Loss: 60.593
+
+Loss: [2406.5722862184048, 1272.9377319216728, 780.3879857808352, 363.7772328853607, 169.89027947187424, 104.88934630155563, 106.9854692183435, 57.5448032617569, 49.9457339104265, 96.30185366421938, 51.861075945198536, 74.40857230126858, 83.23575334250927, 46.24234429001808, 16.38822565227747, 67.34963771700859, 15.726421536877751, 12.986682087182999, 2.306748151779175, 1.8693976998329163, 150.56609730422497, 47.91511765494943, 71.8037611991167, 8.000041007995605, 21.380577139556408, 33.523078829050064, 56.780199229717255, 23.055071413517, 15.337862849235535, 9.203247010707855, 15.910924807190895, 58.248148411512375, 28.849556416273117, 12.12882237136364, 51.77773031592369, 18.670112684369087, 8.558596938848495, 16.824974805116653, 8.685287922620773, 51.74092587828636, 14.688817918300629, 13.469630718231201, 26.79023689031601, 21.47061126679182, 28.405263245105743, 10.15872859954834, 5.2509841322898865, 12.910351410508156, 16.7746037915349, 60.592544600367546]
+Test: [26.38888888888889, 46.52777777777778, 65.97222222222221, 72.22222222222221, 77.08333333333334, 77.08333333333334, 77.08333333333334, 77.77777777777779, 79.16666666666666, 84.72222222222221, 81.94444444444444, 68.75, 74.30555555555556, 84.02777777777779, 80.55555555555556, 75.0, 83.33333333333334, 81.94444444444444, 86.11111111111111, 81.94444444444444, 79.86111111111111, 79.16666666666666, 81.94444444444444, 83.33333333333334, 85.41666666666666, 78.47222222222221, 81.25, 80.55555555555556, 83.33333333333334, 86.80555555555556, 65.97222222222221, 83.33333333333334, 83.33333333333334, 84.72222222222221, 83.33333333333334, 84.02777777777779, 83.33333333333334, 82.63888888888889, 82.63888888888889, 86.80555555555556, 88.88888888888889, 86.80555555555556, 85.41666666666666, 83.33333333333334, 84.72222222222221, 84.02777777777779, 81.94444444444444, 81.25, 79.86111111111111, 78.47222222222221]
+Train: [42.66337854500616, 68.3107274969174, 87.05302096177559, 93.34155363748458, 97.90382244143034, 97.65721331689272, 97.78051787916154, 98.76695437731196, 98.39704069050555, 99.13686806411837, 98.52034525277435, 96.17755856966707, 95.80764488286067, 100.0, 98.02712700369914, 93.34155363748458, 99.75339087546239, 100.0, 100.0, 100.0, 98.76695437731196, 97.65721331689272, 99.38347718865597, 99.8766954377312, 99.8766954377312, 99.13686806411837, 99.63008631319359, 98.27373612823675, 99.13686806411837, 99.8766954377312, 87.79284833538841, 99.13686806411837, 99.38347718865597, 99.75339087546239, 99.13686806411837, 99.8766954377312, 99.38347718865597, 99.8766954377312, 99.8766954377312, 99.50678175092479, 99.8766954377312, 100.0, 99.50678175092479, 99.8766954377312, 99.38347718865597, 99.50678175092479, 99.13686806411837, 99.13686806411837, 99.26017262638717, 96.30086313193587]
+
+Training ended: 15/01/2020 01:32:36
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Training started: 15/01/2020 01:32:48
+
+Number of classes: 10 | Number of epochs: 50
+Batch size: 1 | Learning rate: 0.001
+Training data size: 811 | Test data size: 144
+
+Epoch: 000 | Test accuracy: 6.944% | Train accuracy: 9.618%
+Epoch: 001 | Test accuracy: 31.944% | Train accuracy: 50.801% | Loss: 2369.126
+Epoch: 002 | Test accuracy: 45.139% | Train accuracy: 81.258% | Loss: 1136.426
+Epoch: 003 | Test accuracy: 61.111% | Train accuracy: 88.656% | Loss: 553.026
+Epoch: 004 | Test accuracy: 68.056% | Train accuracy: 92.602% | Loss: 259.219
+Epoch: 005 | Test accuracy: 72.917% | Train accuracy: 95.314% | Loss: 193.676
+Epoch: 006 | Test accuracy: 70.139% | Train accuracy: 98.397% | Loss: 119.025
+Epoch: 007 | Test accuracy: 67.361% | Train accuracy: 96.547% | Loss: 58.718
+Epoch: 008 | Test accuracy: 72.222% | Train accuracy: 97.657% | Loss: 107.327
+Epoch: 009 | Test accuracy: 78.472% | Train accuracy: 94.821% | Loss: 107.614
+Epoch: 010 | Test accuracy: 76.389% | Train accuracy: 98.397% | Loss: 88.007
+Epoch: 011 | Test accuracy: 80.556% | Train accuracy: 99.014% | Loss: 51.551
+Epoch: 012 | Test accuracy: 78.472% | Train accuracy: 97.041% | Loss: 90.042
+Epoch: 013 | Test accuracy: 79.167% | Train accuracy: 99.014% | Loss: 40.702
+Epoch: 014 | Test accuracy: 79.861% | Train accuracy: 97.657% | Loss: 24.306
+Epoch: 015 | Test accuracy: 80.556% | Train accuracy: 98.520% | Loss: 49.978
+Epoch: 016 | Test accuracy: 80.556% | Train accuracy: 98.644% | Loss: 53.312
+Epoch: 017 | Test accuracy: 82.639% | Train accuracy: 99.383% | Loss: 86.051
+Epoch: 018 | Test accuracy: 85.417% | Train accuracy: 99.383% | Loss: 1.691
+Epoch: 019 | Test accuracy: 84.028% | Train accuracy: 99.630% | Loss: 8.464
+Epoch: 020 | Test accuracy: 81.944% | Train accuracy: 98.520% | Loss: 33.752
+Epoch: 021 | Test accuracy: 79.167% | Train accuracy: 98.520% | Loss: 55.181
+Epoch: 022 | Test accuracy: 85.417% | Train accuracy: 99.507% | Loss: 77.625
+Epoch: 023 | Test accuracy: 84.028% | Train accuracy: 100.000% | Loss: 7.186
+Epoch: 024 | Test accuracy: 83.333% | Train accuracy: 100.000% | Loss: 1.848
+Epoch: 025 | Test accuracy: 85.417% | Train accuracy: 100.000% | Loss: 0.384
+Epoch: 026 | Test accuracy: 78.472% | Train accuracy: 98.274% | Loss: 9.525
+Epoch: 027 | Test accuracy: 81.944% | Train accuracy: 99.753% | Loss: 111.649
+Epoch: 028 | Test accuracy: 83.333% | Train accuracy: 99.630% | Loss: 39.035
+Epoch: 029 | Test accuracy: 85.417% | Train accuracy: 100.000% | Loss: 4.774
+Epoch: 030 | Test accuracy: 88.194% | Train accuracy: 100.000% | Loss: 6.722
+Epoch: 031 | Test accuracy: 85.417% | Train accuracy: 99.630% | Loss: 10.772
+Epoch: 032 | Test accuracy: 85.417% | Train accuracy: 99.507% | Loss: 18.685
+Epoch: 033 | Test accuracy: 81.944% | Train accuracy: 98.767% | Loss: 26.671
+Epoch: 034 | Test accuracy: 79.861% | Train accuracy: 99.507% | Loss: 25.819
+Epoch: 035 | Test accuracy: 80.556% | Train accuracy: 98.767% | Loss: 10.076
+Epoch: 036 | Test accuracy: 84.028% | Train accuracy: 99.507% | Loss: 24.343
+Epoch: 037 | Test accuracy: 84.028% | Train accuracy: 99.260% | Loss: 16.374
+Epoch: 038 | Test accuracy: 83.333% | Train accuracy: 99.260% | Loss: 19.649
+Epoch: 039 | Test accuracy: 87.500% | Train accuracy: 99.753% | Loss: 17.143
+Epoch: 040 | Test accuracy: 89.583% | Train accuracy: 99.753% | Loss: 47.076
+Epoch: 041 | Test accuracy: 88.889% | Train accuracy: 99.877% | Loss: 3.703
+Epoch: 042 | Test accuracy: 89.583% | Train accuracy: 99.877% | Loss: 0.232
+Epoch: 043 | Test accuracy: 85.417% | Train accuracy: 99.877% | Loss: 0.302
+Epoch: 044 | Test accuracy: 86.806% | Train accuracy: 100.000% | Loss: 0.380
+Epoch: 045 | Test accuracy: 79.861% | Train accuracy: 98.150% | Loss: 0.768
+Epoch: 046 | Test accuracy: 86.806% | Train accuracy: 99.753% | Loss: 90.048
+Epoch: 047 | Test accuracy: 79.861% | Train accuracy: 99.630% | Loss: 15.880
+Epoch: 048 | Test accuracy: 84.722% | Train accuracy: 100.000% | Loss: 14.973
+Epoch: 049 | Test accuracy: 86.111% | Train accuracy: 99.877% | Loss: 7.999
+Epoch: 050 | Test accuracy: 82.639% | Train accuracy: 99.877% | Loss: 17.083
+
+Loss: [2369.126490086317, 1136.4264370426536, 553.0255603119731, 259.2190530151129, 193.6755057796836, 119.02531865239143, 58.718390218913555, 107.32743672281504, 107.61414912343025, 88.0067546851933, 51.55077983438969, 90.04165662825108, 40.702126923948526, 24.305668130517006, 49.97771782055497, 53.31177279353142, 86.05132800340652, 1.6911857724189758, 8.464134305715561, 33.7518355101347, 55.180634155869484, 77.62502804398537, 7.185527205467224, 1.8478890657424927, 0.3844420313835144, 9.524947240948677, 111.64879390597343, 39.034759759902954, 4.774104654788971, 6.722053110599518, 10.772351652383804, 18.68470197916031, 26.670695587992668, 25.81909331679344, 10.07552683353424, 24.342571429908276, 16.373690962791443, 19.648683417588472, 17.14268259331584, 47.07595303654671, 3.7031341227702796, 0.23206281661987305, 0.30208271741867065, 0.37983614206314087, 0.767972469329834, 90.04842776060104, 15.879662036895752, 14.972698450088501, 7.999203026294708, 17.082911163568497]
+Test: [31.944444444444443, 45.13888888888889, 61.111111111111114, 68.05555555555556, 72.91666666666666, 70.13888888888889, 67.36111111111111, 72.22222222222221, 78.47222222222221, 76.38888888888889, 80.55555555555556, 78.47222222222221, 79.16666666666666, 79.86111111111111, 80.55555555555556, 80.55555555555556, 82.63888888888889, 85.41666666666666, 84.02777777777779, 81.94444444444444, 79.16666666666666, 85.41666666666666, 84.02777777777779, 83.33333333333334, 85.41666666666666, 78.47222222222221, 81.94444444444444, 83.33333333333334, 85.41666666666666, 88.19444444444444, 85.41666666666666, 85.41666666666666, 81.94444444444444, 79.86111111111111, 80.55555555555556, 84.02777777777779, 84.02777777777779, 83.33333333333334, 87.5, 89.58333333333334, 88.88888888888889, 89.58333333333334, 85.41666666666666, 86.80555555555556, 79.86111111111111, 86.80555555555556, 79.86111111111111, 84.72222222222221, 86.11111111111111, 82.63888888888889]
+Train: [50.801479654747226, 81.2577065351418, 88.65598027127004, 92.60172626387177, 95.31442663378546, 98.39704069050555, 96.54747225647348, 97.65721331689272, 94.82120838471023, 98.39704069050555, 99.01356350184956, 97.04069050554871, 99.01356350184956, 97.65721331689272, 98.52034525277435, 98.64364981504316, 99.38347718865597, 99.38347718865597, 99.63008631319359, 98.52034525277435, 98.52034525277435, 99.50678175092479, 100.0, 100.0, 100.0, 98.27373612823675, 99.75339087546239, 99.63008631319359, 100.0, 100.0, 99.63008631319359, 99.50678175092479, 98.76695437731196, 99.50678175092479, 98.76695437731196, 99.50678175092479, 99.26017262638717, 99.26017262638717, 99.75339087546239, 99.75339087546239, 99.8766954377312, 99.8766954377312, 99.8766954377312, 100.0, 98.15043156596795, 99.75339087546239, 99.63008631319359, 100.0, 99.8766954377312, 99.8766954377312]
+
+Training ended: 15/01/2020 01:59:28
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Training started: 15/01/2020 01:59:44
+
+Number of classes: 10 | Number of epochs: 50
+Batch size: 1 | Learning rate: 0.001
+Training data size: 811 | Test data size: 144
+
+Epoch: 000 | Test accuracy: 2.083% | Train accuracy: 1.233%
+Epoch: 001 | Test accuracy: 29.861% | Train accuracy: 46.363% | Loss: 2286.542
+Epoch: 002 | Test accuracy: 50.000% | Train accuracy: 79.038% | Loss: 1064.233
+Epoch: 003 | Test accuracy: 60.417% | Train accuracy: 87.793% | Loss: 524.220
+Epoch: 004 | Test accuracy: 66.667% | Train accuracy: 93.835% | Loss: 254.073
+Epoch: 005 | Test accuracy: 72.917% | Train accuracy: 97.041% | Loss: 160.675
+Epoch: 006 | Test accuracy: 72.222% | Train accuracy: 94.821% | Loss: 121.552
+Epoch: 007 | Test accuracy: 79.167% | Train accuracy: 97.781% | Loss: 133.556
+Epoch: 008 | Test accuracy: 79.861% | Train accuracy: 97.164% | Loss: 110.553
+Epoch: 009 | Test accuracy: 79.861% | Train accuracy: 99.630% | Loss: 60.738
+Epoch: 010 | Test accuracy: 72.222% | Train accuracy: 97.287% | Loss: 79.772
+Epoch: 011 | Test accuracy: 75.694% | Train accuracy: 98.767% | Loss: 63.190
+Epoch: 012 | Test accuracy: 70.139% | Train accuracy: 94.451% | Loss: 82.903
+Epoch: 013 | Test accuracy: 82.639% | Train accuracy: 99.507% | Loss: 57.279
+Epoch: 014 | Test accuracy: 75.000% | Train accuracy: 97.287% | Loss: 28.614
+Epoch: 015 | Test accuracy: 84.722% | Train accuracy: 99.630% | Loss: 20.576
+Epoch: 016 | Test accuracy: 86.806% | Train accuracy: 98.890% | Loss: 42.604
+Epoch: 017 | Test accuracy: 83.333% | Train accuracy: 98.274% | Loss: 56.504
+Epoch: 018 | Test accuracy: 88.194% | Train accuracy: 99.137% | Loss: 28.414
+Epoch: 019 | Test accuracy: 84.722% | Train accuracy: 99.877% | Loss: 28.502
+Epoch: 020 | Test accuracy: 82.639% | Train accuracy: 98.027% | Loss: 25.865
+Epoch: 021 | Test accuracy: 79.861% | Train accuracy: 99.014% | Loss: 44.053
+Epoch: 022 | Test accuracy: 85.417% | Train accuracy: 99.383% | Loss: 8.322
+Epoch: 023 | Test accuracy: 88.889% | Train accuracy: 99.630% | Loss: 31.803
+Epoch: 024 | Test accuracy: 77.083% | Train accuracy: 98.274% | Loss: 28.862
+Epoch: 025 | Test accuracy: 86.111% | Train accuracy: 99.753% | Loss: 23.979
+Epoch: 026 | Test accuracy: 83.333% | Train accuracy: 99.630% | Loss: 16.764
+Epoch: 027 | Test accuracy: 84.028% | Train accuracy: 99.260% | Loss: 82.549
+Epoch: 028 | Test accuracy: 82.639% | Train accuracy: 99.753% | Loss: 15.759
+Epoch: 029 | Test accuracy: 87.500% | Train accuracy: 99.877% | Loss: 7.438
+Epoch: 030 | Test accuracy: 79.861% | Train accuracy: 97.781% | Loss: 31.432
+Epoch: 031 | Test accuracy: 83.333% | Train accuracy: 99.507% | Loss: 56.014
+Epoch: 032 | Test accuracy: 81.250% | Train accuracy: 98.150% | Loss: 32.265
+Epoch: 033 | Test accuracy: 86.806% | Train accuracy: 99.630% | Loss: 13.957
+Epoch: 034 | Test accuracy: 86.806% | Train accuracy: 99.753% | Loss: 14.549
+Epoch: 035 | Test accuracy: 89.583% | Train accuracy: 100.000% | Loss: 29.000
+Epoch: 036 | Test accuracy: 83.333% | Train accuracy: 98.150% | Loss: 32.070
+Epoch: 037 | Test accuracy: 84.722% | Train accuracy: 99.260% | Loss: 14.743
+Epoch: 038 | Test accuracy: 85.417% | Train accuracy: 99.753% | Loss: 20.014
+Epoch: 039 | Test accuracy: 90.972% | Train accuracy: 99.877% | Loss: 5.858
+Epoch: 040 | Test accuracy: 89.583% | Train accuracy: 100.000% | Loss: 0.291
+Epoch: 041 | Test accuracy: 81.944% | Train accuracy: 99.014% | Loss: 28.742
+Epoch: 042 | Test accuracy: 87.500% | Train accuracy: 99.260% | Loss: 34.358
+Epoch: 043 | Test accuracy: 86.111% | Train accuracy: 99.383% | Loss: 19.869
+Epoch: 044 | Test accuracy: 82.639% | Train accuracy: 98.644% | Loss: 5.179
+Epoch: 045 | Test accuracy: 88.194% | Train accuracy: 99.260% | Loss: 38.255
+Epoch: 046 | Test accuracy: 88.194% | Train accuracy: 99.383% | Loss: 27.026
+Epoch: 047 | Test accuracy: 94.444% | Train accuracy: 100.000% | Loss: 19.990
+Epoch: 048 | Test accuracy: 90.278% | Train accuracy: 99.877% | Loss: 11.183
+Epoch: 049 | Test accuracy: 88.889% | Train accuracy: 99.507% | Loss: 13.850
+Epoch: 050 | Test accuracy: 93.056% | Train accuracy: 100.000% | Loss: 7.736
+
+Loss: [2286.54240603745, 1064.2333503961563, 524.2198591530323, 254.07256625778973, 160.67475144937634, 121.55167338997126, 133.55615738406777, 110.5533661916852, 60.73846726119518, 79.77177867293358, 63.18977927416563, 82.90334583073854, 57.27895102649927, 28.613568991422653, 20.57644711434841, 42.6037541590631, 56.504100512713194, 28.414189592003822, 28.5022995993495, 25.865402474999428, 44.05304819345474, 8.32233452796936, 31.803282290697098, 28.862238973379135, 23.97927188873291, 16.764202654361725, 82.54900225251913, 15.759336609393358, 7.438136100769043, 31.43186540901661, 56.01356478501111, 32.264657616615295, 13.957196518778801, 14.548945412039757, 29.000375002622604, 32.06970354169607, 14.742796838283539, 20.01375612616539, 5.857624739408493, 0.29097142070531845, 28.74229285120964, 34.35830642282963, 19.869172856211662, 5.179170578718185, 38.255479633808136, 27.02614375948906, 19.98999436944723, 11.183090299367905, 13.85034455358982, 7.736086666584015]
+Test: [29.86111111111111, 50.0, 60.416666666666664, 66.66666666666666, 72.91666666666666, 72.22222222222221, 79.16666666666666, 79.86111111111111, 79.86111111111111, 72.22222222222221, 75.69444444444444, 70.13888888888889, 82.63888888888889, 75.0, 84.72222222222221, 86.80555555555556, 83.33333333333334, 88.19444444444444, 84.72222222222221, 82.63888888888889, 79.86111111111111, 85.41666666666666, 88.88888888888889, 77.08333333333334, 86.11111111111111, 83.33333333333334, 84.02777777777779, 82.63888888888889, 87.5, 79.86111111111111, 83.33333333333334, 81.25, 86.80555555555556, 86.80555555555556, 89.58333333333334, 83.33333333333334, 84.72222222222221, 85.41666666666666, 90.97222222222221, 89.58333333333334, 81.94444444444444, 87.5, 86.11111111111111, 82.63888888888889, 88.19444444444444, 88.19444444444444, 94.44444444444444, 90.27777777777779, 88.88888888888889, 93.05555555555556]
+Train: [46.362515413070284, 79.03822441430333, 87.79284833538841, 93.83477188655979, 97.04069050554871, 94.82120838471023, 97.78051787916154, 97.16399506781751, 99.63008631319359, 97.28729963008631, 98.76695437731196, 94.45129469790382, 99.50678175092479, 97.28729963008631, 99.63008631319359, 98.89025893958076, 98.27373612823675, 99.13686806411837, 99.8766954377312, 98.02712700369914, 99.01356350184956, 99.38347718865597, 99.63008631319359, 98.27373612823675, 99.75339087546239, 99.63008631319359, 99.26017262638717, 99.75339087546239, 99.8766954377312, 97.78051787916154, 99.50678175092479, 98.15043156596795, 99.63008631319359, 99.75339087546239, 100.0, 98.15043156596795, 99.26017262638717, 99.75339087546239, 99.8766954377312, 100.0, 99.01356350184956, 99.26017262638717, 99.38347718865597, 98.64364981504316, 99.26017262638717, 99.38347718865597, 100.0, 99.8766954377312, 99.50678175092479, 100.0]
+
+Training ended: 15/01/2020 02:26:51
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Training started: 15/01/2020 02:27:08
+
+Number of classes: 10 | Number of epochs: 50
+Batch size: 1 | Learning rate: 0.001
+Training data size: 811 | Test data size: 144
+
+Epoch: 000 | Test accuracy: 12.500% | Train accuracy: 12.700%
+Epoch: 001 | Test accuracy: 43.750% | Train accuracy: 65.351% | Loss: 2177.362
+Epoch: 002 | Test accuracy: 56.944% | Train accuracy: 86.683% | Loss: 808.801
+Epoch: 003 | Test accuracy: 61.806% | Train accuracy: 89.642% | Loss: 431.987
+Epoch: 004 | Test accuracy: 66.667% | Train accuracy: 94.575% | Loss: 250.414
+Epoch: 005 | Test accuracy: 65.972% | Train accuracy: 97.041% | Loss: 135.218
+Epoch: 006 | Test accuracy: 65.972% | Train accuracy: 93.711% | Loss: 109.104
+Epoch: 007 | Test accuracy: 72.917% | Train accuracy: 98.274% | Loss: 102.840
+Epoch: 008 | Test accuracy: 69.444% | Train accuracy: 92.478% | Loss: 111.317
+Epoch: 009 | Test accuracy: 72.917% | Train accuracy: 96.917% | Loss: 201.221
+Epoch: 010 | Test accuracy: 72.222% | Train accuracy: 98.767% | Loss: 76.047
+Epoch: 011 | Test accuracy: 75.000% | Train accuracy: 99.014% | Loss: 38.515
+Epoch: 012 | Test accuracy: 73.611% | Train accuracy: 96.794% | Loss: 94.835
+Epoch: 013 | Test accuracy: 76.389% | Train accuracy: 98.274% | Loss: 43.241
+Epoch: 014 | Test accuracy: 79.861% | Train accuracy: 97.164% | Loss: 54.105
+Epoch: 015 | Test accuracy: 77.778% | Train accuracy: 96.054% | Loss: 56.847
+Epoch: 016 | Test accuracy: 67.361% | Train accuracy: 96.178% | Loss: 45.778
+Epoch: 017 | Test accuracy: 78.472% | Train accuracy: 98.767% | Loss: 52.652
+Epoch: 018 | Test accuracy: 76.389% | Train accuracy: 97.411% | Loss: 39.118
+Epoch: 019 | Test accuracy: 81.250% | Train accuracy: 99.383% | Loss: 22.198
+Epoch: 020 | Test accuracy: 74.306% | Train accuracy: 98.890% | Loss: 67.291
+Epoch: 021 | Test accuracy: 80.556% | Train accuracy: 99.137% | Loss: 21.721
+Epoch: 022 | Test accuracy: 79.167% | Train accuracy: 99.753% | Loss: 28.553
+Epoch: 023 | Test accuracy: 82.639% | Train accuracy: 99.507% | Loss: 32.204
+Epoch: 024 | Test accuracy: 78.472% | Train accuracy: 97.041% | Loss: 36.918
+Epoch: 025 | Test accuracy: 77.083% | Train accuracy: 96.547% | Loss: 37.533
+Epoch: 026 | Test accuracy: 78.472% | Train accuracy: 97.781% | Loss: 35.697
+Epoch: 027 | Test accuracy: 84.028% | Train accuracy: 99.753% | Loss: 17.100
+Epoch: 028 | Test accuracy: 79.861% | Train accuracy: 98.767% | Loss: 18.292
+Epoch: 029 | Test accuracy: 84.028% | Train accuracy: 98.150% | Loss: 46.340
+Epoch: 030 | Test accuracy: 84.028% | Train accuracy: 99.630% | Loss: 29.100
+Epoch: 031 | Test accuracy: 84.028% | Train accuracy: 99.507% | Loss: 3.663
+Epoch: 032 | Test accuracy: 81.944% | Train accuracy: 99.630% | Loss: 28.478
+Epoch: 033 | Test accuracy: 79.167% | Train accuracy: 98.397% | Loss: 21.299
+Epoch: 034 | Test accuracy: 78.472% | Train accuracy: 98.644% | Loss: 43.343
+Epoch: 035 | Test accuracy: 82.639% | Train accuracy: 98.767% | Loss: 59.689
+Epoch: 036 | Test accuracy: 83.333% | Train accuracy: 99.507% | Loss: 21.788
+Epoch: 037 | Test accuracy: 80.556% | Train accuracy: 98.767% | Loss: 37.196
+Epoch: 038 | Test accuracy: 71.528% | Train accuracy: 96.301% | Loss: 36.472
+Epoch: 039 | Test accuracy: 85.417% | Train accuracy: 99.753% | Loss: 20.691
+Epoch: 040 | Test accuracy: 84.722% | Train accuracy: 99.753% | Loss: 49.875
+Epoch: 041 | Test accuracy: 81.250% | Train accuracy: 99.877% | Loss: 3.497
+Epoch: 042 | Test accuracy: 83.333% | Train accuracy: 99.630% | Loss: 17.844
+Epoch: 043 | Test accuracy: 81.944% | Train accuracy: 99.507% | Loss: 14.049
+Epoch: 044 | Test accuracy: 79.861% | Train accuracy: 99.507% | Loss: 18.959
+Epoch: 045 | Test accuracy: 84.722% | Train accuracy: 99.877% | Loss: 1.189
+Epoch: 046 | Test accuracy: 77.778% | Train accuracy: 95.191% | Loss: 39.139
+Epoch: 047 | Test accuracy: 82.639% | Train accuracy: 99.753% | Loss: 36.556
+Epoch: 048 | Test accuracy: 85.417% | Train accuracy: 100.000% | Loss: 6.610
+Epoch: 049 | Test accuracy: 82.639% | Train accuracy: 99.877% | Loss: 1.628
+Epoch: 050 | Test accuracy: 82.639% | Train accuracy: 99.877% | Loss: 59.245
+
+Loss: [2177.362407028675, 808.8010104671121, 431.98654671385884, 250.4139163941145, 135.21816085278988, 109.10370688512921, 102.84043877571821, 111.31700502336025, 201.22110275924206, 76.04719570837915, 38.51465106010437, 94.83461135625839, 43.24095366895199, 54.10465785861015, 56.8474837243557, 45.77782330662012, 52.65244194865227, 39.11778441444039, 22.198050290346146, 67.290503308177, 21.720749735832214, 28.552675008773804, 32.20429641008377, 36.9180356413126, 37.53292044997215, 35.69726061820984, 17.099669873714447, 18.29159789159894, 46.33951923251152, 29.100276052951813, 3.6632138416171074, 28.478347659111023, 21.298870593309402, 43.343105375766754, 59.688680827617645, 21.788362741470337, 37.19564737379551, 36.472301602363586, 20.690998554229736, 49.875106140971184, 3.4970372319221497, 17.843507945537567, 14.048809150233865, 18.95901283621788, 1.1887382864952087, 39.138774797320366, 36.55641207098961, 6.609753921627998, 1.6281512379646301, 59.24540150165558]
+Test: [43.75, 56.94444444444444, 61.80555555555556, 66.66666666666666, 65.97222222222221, 65.97222222222221, 72.91666666666666, 69.44444444444444, 72.91666666666666, 72.22222222222221, 75.0, 73.61111111111111, 76.38888888888889, 79.86111111111111, 77.77777777777779, 67.36111111111111, 78.47222222222221, 76.38888888888889, 81.25, 74.30555555555556, 80.55555555555556, 79.16666666666666, 82.63888888888889, 78.47222222222221, 77.08333333333334, 78.47222222222221, 84.02777777777779, 79.86111111111111, 84.02777777777779, 84.02777777777779, 84.02777777777779, 81.94444444444444, 79.16666666666666, 78.47222222222221, 82.63888888888889, 83.33333333333334, 80.55555555555556, 71.52777777777779, 85.41666666666666, 84.72222222222221, 81.25, 83.33333333333334, 81.94444444444444, 79.86111111111111, 84.72222222222221, 77.77777777777779, 82.63888888888889, 85.41666666666666, 82.63888888888889, 82.63888888888889]
+Train: [65.35141800246609, 86.68310727496917, 89.64241676942046, 94.57459926017263, 97.04069050554871, 93.711467324291, 98.27373612823675, 92.47842170160297, 96.9173859432799, 98.76695437731196, 99.01356350184956, 96.7940813810111, 98.27373612823675, 97.16399506781751, 96.05425400739827, 96.17755856966707, 98.76695437731196, 97.41060419235512, 99.38347718865597, 98.89025893958076, 99.13686806411837, 99.75339087546239, 99.50678175092479, 97.04069050554871, 96.54747225647348, 97.78051787916154, 99.75339087546239, 98.76695437731196, 98.15043156596795, 99.63008631319359, 99.50678175092479, 99.63008631319359, 98.39704069050555, 98.64364981504316, 98.76695437731196, 99.50678175092479, 98.76695437731196, 96.30086313193587, 99.75339087546239, 99.75339087546239, 99.8766954377312, 99.63008631319359, 99.50678175092479, 99.50678175092479, 99.8766954377312, 95.19112207151665, 99.75339087546239, 100.0, 99.8766954377312, 99.8766954377312]
+
+Training ended: 15/01/2020 02:54:13
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Training started: 15/01/2020 02:54:25
+
+Number of classes: 10 | Number of epochs: 50
+Batch size: 1 | Learning rate: 0.001
+Training data size: 811 | Test data size: 144
+
+Epoch: 000 | Test accuracy: 11.806% | Train accuracy: 6.535%
+Epoch: 001 | Test accuracy: 34.028% | Train accuracy: 55.980% | Loss: 2310.603
+Epoch: 002 | Test accuracy: 63.194% | Train accuracy: 87.546% | Loss: 877.806
+Epoch: 003 | Test accuracy: 59.028% | Train accuracy: 91.615% | Loss: 356.322
+Epoch: 004 | Test accuracy: 68.750% | Train accuracy: 96.424% | Loss: 156.659
+Epoch: 005 | Test accuracy: 77.778% | Train accuracy: 97.411% | Loss: 91.478
+Epoch: 006 | Test accuracy: 68.750% | Train accuracy: 93.218% | Loss: 102.104
+Epoch: 007 | Test accuracy: 72.222% | Train accuracy: 94.945% | Loss: 147.859
+Epoch: 008 | Test accuracy: 79.167% | Train accuracy: 97.904% | Loss: 88.690
+Epoch: 009 | Test accuracy: 76.389% | Train accuracy: 98.274% | Loss: 58.414
+Epoch: 010 | Test accuracy: 78.472% | Train accuracy: 99.137% | Loss: 51.662
+Epoch: 011 | Test accuracy: 72.917% | Train accuracy: 98.027% | Loss: 71.249
+Epoch: 012 | Test accuracy: 78.472% | Train accuracy: 98.520% | Loss: 53.444
+Epoch: 013 | Test accuracy: 81.944% | Train accuracy: 99.137% | Loss: 53.585
+Epoch: 014 | Test accuracy: 80.556% | Train accuracy: 98.644% | Loss: 70.867
+Epoch: 015 | Test accuracy: 80.556% | Train accuracy: 98.890% | Loss: 53.206
+Epoch: 016 | Test accuracy: 84.028% | Train accuracy: 99.877% | Loss: 42.664
+Epoch: 017 | Test accuracy: 84.028% | Train accuracy: 99.014% | Loss: 37.552
+Epoch: 018 | Test accuracy: 80.556% | Train accuracy: 98.767% | Loss: 22.735
+Epoch: 019 | Test accuracy: 79.167% | Train accuracy: 96.794% | Loss: 61.869
+Epoch: 020 | Test accuracy: 84.722% | Train accuracy: 99.137% | Loss: 46.131
+Epoch: 021 | Test accuracy: 86.111% | Train accuracy: 99.383% | Loss: 25.949
+Epoch: 022 | Test accuracy: 83.333% | Train accuracy: 98.520% | Loss: 28.175
+Epoch: 023 | Test accuracy: 77.083% | Train accuracy: 98.274% | Loss: 43.902
+Epoch: 024 | Test accuracy: 84.722% | Train accuracy: 99.014% | Loss: 27.598
+Epoch: 025 | Test accuracy: 81.944% | Train accuracy: 98.397% | Loss: 39.427
+Epoch: 026 | Test accuracy: 79.861% | Train accuracy: 98.644% | Loss: 17.474
+Epoch: 027 | Test accuracy: 85.417% | Train accuracy: 99.753% | Loss: 26.348
+Epoch: 028 | Test accuracy: 80.556% | Train accuracy: 98.767% | Loss: 38.515
+Epoch: 029 | Test accuracy: 86.111% | Train accuracy: 99.507% | Loss: 37.229
+Epoch: 030 | Test accuracy: 84.722% | Train accuracy: 99.507% | Loss: 8.645
+Epoch: 031 | Test accuracy: 88.194% | Train accuracy: 99.507% | Loss: 4.575
+Epoch: 032 | Test accuracy: 84.722% | Train accuracy: 99.753% | Loss: 24.405
+Epoch: 033 | Test accuracy: 88.194% | Train accuracy: 99.383% | Loss: 11.921
+Epoch: 034 | Test accuracy: 79.167% | Train accuracy: 98.767% | Loss: 27.286
+Epoch: 035 | Test accuracy: 84.722% | Train accuracy: 100.000% | Loss: 9.935
+Epoch: 036 | Test accuracy: 86.111% | Train accuracy: 99.630% | Loss: 32.548
+Epoch: 037 | Test accuracy: 87.500% | Train accuracy: 99.137% | Loss: 14.860
+Epoch: 038 | Test accuracy: 84.722% | Train accuracy: 99.260% | Loss: 13.250
+Epoch: 039 | Test accuracy: 91.667% | Train accuracy: 99.877% | Loss: 3.298
+Epoch: 040 | Test accuracy: 86.111% | Train accuracy: 99.630% | Loss: 68.205
+Epoch: 041 | Test accuracy: 90.278% | Train accuracy: 99.877% | Loss: 25.288
+Epoch: 042 | Test accuracy: 84.722% | Train accuracy: 100.000% | Loss: 22.532
+Epoch: 043 | Test accuracy: 87.500% | Train accuracy: 99.877% | Loss: 7.476
+Epoch: 044 | Test accuracy: 84.028% | Train accuracy: 99.877% | Loss: 1.329
+Epoch: 045 | Test accuracy: 84.722% | Train accuracy: 99.877% | Loss: 0.677
+Epoch: 046 | Test accuracy: 88.194% | Train accuracy: 100.000% | Loss: 0.415
+Epoch: 047 | Test accuracy: 88.889% | Train accuracy: 100.000% | Loss: 0.072
+Epoch: 048 | Test accuracy: 88.194% | Train accuracy: 100.000% | Loss: 0.028
+Epoch: 049 | Test accuracy: 80.556% | Train accuracy: 98.274% | Loss: 47.364
+Epoch: 050 | Test accuracy: 86.111% | Train accuracy: 99.260% | Loss: 65.046
+
+Loss: [2310.603488832712, 877.805696927011, 356.32217594236135, 156.6593949869275, 91.47781458869576, 102.10394098609686, 147.85937598533928, 88.68980260752141, 58.4142533801496, 51.66179792582989, 71.24904454126954, 53.443718284368515, 53.58479256927967, 70.86679013073444, 53.205879002809525, 42.66358111798763, 37.55218607187271, 22.734619915485382, 61.86913803219795, 46.13057839125395, 25.948589634150267, 28.174748241901398, 43.90198239684105, 27.598204411566257, 39.42658729851246, 17.473991975188255, 26.34763741493225, 38.514693439006805, 37.22929534316063, 8.644599437713623, 4.57485169172287, 24.404695361852646, 11.921121567487717, 27.28639392927289, 9.934974491596222, 32.5478720664978, 14.860111474990845, 13.249507904052734, 3.297860711812973, 68.20495289564133, 25.28816184401512, 22.531885474920273, 7.476005017757416, 1.328598752617836, 0.6766155362129211, 0.41534795984625816, 0.07241582870483398, 0.028313159942626953, 47.3639228194952, 65.04582023620605]
+Test: [34.02777777777778, 63.19444444444444, 59.02777777777778, 68.75, 77.77777777777779, 68.75, 72.22222222222221, 79.16666666666666, 76.38888888888889, 78.47222222222221, 72.91666666666666, 78.47222222222221, 81.94444444444444, 80.55555555555556, 80.55555555555556, 84.02777777777779, 84.02777777777779, 80.55555555555556, 79.16666666666666, 84.72222222222221, 86.11111111111111, 83.33333333333334, 77.08333333333334, 84.72222222222221, 81.94444444444444, 79.86111111111111, 85.41666666666666, 80.55555555555556, 86.11111111111111, 84.72222222222221, 88.19444444444444, 84.72222222222221, 88.19444444444444, 79.16666666666666, 84.72222222222221, 86.11111111111111, 87.5, 84.72222222222221, 91.66666666666666, 86.11111111111111, 90.27777777777779, 84.72222222222221, 87.5, 84.02777777777779, 84.72222222222221, 88.19444444444444, 88.88888888888889, 88.19444444444444, 80.55555555555556, 86.11111111111111]
+Train: [55.980271270036994, 87.54623921085081, 91.61528976572133, 96.42416769420468, 97.41060419235512, 93.21824907521578, 94.94451294697905, 97.90382244143034, 98.27373612823675, 99.13686806411837, 98.02712700369914, 98.52034525277435, 99.13686806411837, 98.64364981504316, 98.89025893958076, 99.8766954377312, 99.01356350184956, 98.76695437731196, 96.7940813810111, 99.13686806411837, 99.38347718865597, 98.52034525277435, 98.27373612823675, 99.01356350184956, 98.39704069050555, 98.64364981504316, 99.75339087546239, 98.76695437731196, 99.50678175092479, 99.50678175092479, 99.50678175092479, 99.75339087546239, 99.38347718865597, 98.76695437731196, 100.0, 99.63008631319359, 99.13686806411837, 99.26017262638717, 99.8766954377312, 99.63008631319359, 99.8766954377312, 100.0, 99.8766954377312, 99.8766954377312, 99.8766954377312, 100.0, 100.0, 100.0, 98.27373612823675, 99.26017262638717]
+
+Training ended: 15/01/2020 03:21:25
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Training started: 15/01/2020 03:21:40
+
+Number of classes: 10 | Number of epochs: 50
+Batch size: 1 | Learning rate: 0.001
+Training data size: 811 | Test data size: 144
+
+Epoch: 000 | Test accuracy: 11.111% | Train accuracy: 11.221%
+Epoch: 001 | Test accuracy: 45.833% | Train accuracy: 53.514% | Loss: 2281.414
+Epoch: 002 | Test accuracy: 60.417% | Train accuracy: 78.298% | Loss: 1036.099
+Epoch: 003 | Test accuracy: 66.667% | Train accuracy: 86.806% | Loss: 624.950
+Epoch: 004 | Test accuracy: 68.056% | Train accuracy: 92.725% | Loss: 342.683
+Epoch: 005 | Test accuracy: 70.139% | Train accuracy: 90.875% | Loss: 219.475
+Epoch: 006 | Test accuracy: 74.306% | Train accuracy: 95.931% | Loss: 153.116
+Epoch: 007 | Test accuracy: 74.306% | Train accuracy: 94.451% | Loss: 140.192
+Epoch: 008 | Test accuracy: 79.861% | Train accuracy: 96.301% | Loss: 148.042
+Epoch: 009 | Test accuracy: 77.083% | Train accuracy: 95.068% | Loss: 65.924
+Epoch: 010 | Test accuracy: 77.778% | Train accuracy: 97.781% | Loss: 36.877
+Epoch: 011 | Test accuracy: 72.222% | Train accuracy: 93.218% | Loss: 130.824
+Epoch: 012 | Test accuracy: 75.694% | Train accuracy: 96.547% | Loss: 86.893
+Epoch: 013 | Test accuracy: 74.306% | Train accuracy: 97.534% | Loss: 62.152
+Epoch: 014 | Test accuracy: 77.083% | Train accuracy: 97.287% | Loss: 95.528
+Epoch: 015 | Test accuracy: 76.389% | Train accuracy: 97.411% | Loss: 62.088
+Epoch: 016 | Test accuracy: 73.611% | Train accuracy: 96.671% | Loss: 35.064
+Epoch: 017 | Test accuracy: 83.333% | Train accuracy: 99.507% | Loss: 67.062
+Epoch: 018 | Test accuracy: 84.028% | Train accuracy: 99.260% | Loss: 36.881
+Epoch: 019 | Test accuracy: 78.472% | Train accuracy: 97.164% | Loss: 44.367
+Epoch: 020 | Test accuracy: 80.556% | Train accuracy: 96.424% | Loss: 48.642
+Epoch: 021 | Test accuracy: 81.250% | Train accuracy: 98.644% | Loss: 32.593
+Epoch: 022 | Test accuracy: 77.083% | Train accuracy: 97.287% | Loss: 79.312
+Epoch: 023 | Test accuracy: 83.333% | Train accuracy: 98.890% | Loss: 87.431
+Epoch: 024 | Test accuracy: 79.861% | Train accuracy: 98.274% | Loss: 18.564
+Epoch: 025 | Test accuracy: 78.472% | Train accuracy: 98.890% | Loss: 15.065
+Epoch: 026 | Test accuracy: 79.167% | Train accuracy: 98.027% | Loss: 28.344
+Epoch: 027 | Test accuracy: 81.944% | Train accuracy: 98.150% | Loss: 47.720
+Epoch: 028 | Test accuracy: 77.083% | Train accuracy: 99.014% | Loss: 33.879
+Epoch: 029 | Test accuracy: 81.250% | Train accuracy: 99.383% | Loss: 43.492
+Epoch: 030 | Test accuracy: 78.472% | Train accuracy: 97.287% | Loss: 22.036
+Epoch: 031 | Test accuracy: 84.028% | Train accuracy: 99.260% | Loss: 57.981
+Epoch: 032 | Test accuracy: 84.722% | Train accuracy: 99.507% | Loss: 14.194
+Epoch: 033 | Test accuracy: 81.944% | Train accuracy: 99.137% | Loss: 26.627
+Epoch: 034 | Test accuracy: 84.028% | Train accuracy: 98.890% | Loss: 19.501
+Epoch: 035 | Test accuracy: 83.333% | Train accuracy: 99.383% | Loss: 34.811
+Epoch: 036 | Test accuracy: 85.417% | Train accuracy: 99.014% | Loss: 24.919
+Epoch: 037 | Test accuracy: 84.722% | Train accuracy: 99.630% | Loss: 32.756
+Epoch: 038 | Test accuracy: 77.778% | Train accuracy: 98.274% | Loss: 9.260
+Epoch: 039 | Test accuracy: 86.111% | Train accuracy: 99.507% | Loss: 1.836
+Epoch: 040 | Test accuracy: 75.694% | Train accuracy: 97.287% | Loss: 23.543
+Epoch: 041 | Test accuracy: 84.028% | Train accuracy: 98.767% | Loss: 91.718
+Epoch: 042 | Test accuracy: 84.722% | Train accuracy: 99.753% | Loss: 34.206
+Epoch: 043 | Test accuracy: 86.111% | Train accuracy: 99.383% | Loss: 7.574
+Epoch: 044 | Test accuracy: 86.111% | Train accuracy: 100.000% | Loss: 1.723
+Epoch: 045 | Test accuracy: 83.333% | Train accuracy: 98.767% | Loss: 22.486
+Epoch: 046 | Test accuracy: 81.944% | Train accuracy: 99.137% | Loss: 47.113
+Epoch: 047 | Test accuracy: 83.333% | Train accuracy: 99.630% | Loss: 10.483
+Epoch: 048 | Test accuracy: 81.250% | Train accuracy: 99.630% | Loss: 15.489
+Epoch: 049 | Test accuracy: 85.417% | Train accuracy: 99.137% | Loss: 17.205
+Epoch: 050 | Test accuracy: 86.806% | Train accuracy: 99.630% | Loss: 15.308
+
+Loss: [2281.4140576943755, 1036.0986445844173, 624.9499635696411, 342.68268994241953, 219.47507383674383, 153.1158191114664, 140.19153248518705, 148.04216781258583, 65.92397388257086, 36.87714486569166, 130.82362957671285, 86.89302778244019, 62.15166737139225, 95.52760653197765, 62.088419914245605, 35.06362742185593, 67.06163892149925, 36.88132709264755, 44.36748472228646, 48.64247700572014, 32.59291069209576, 79.31223282031715, 87.43148672580719, 18.563560873270035, 15.064880192279816, 28.34377670288086, 47.71983774006367, 33.87938117980957, 43.49208152294159, 22.035737216472626, 57.98097229003906, 14.194265902042389, 26.62657278776169, 19.500865817070007, 34.81057980656624, 24.918742522597313, 32.75586572289467, 9.260126054286957, 1.83556067943573, 23.542815655469894, 91.71847635507584, 34.20642960071564, 7.573826743289828, 1.7226056456565857, 22.485550194978714, 47.113077223300934, 10.482688516378403, 15.48869103193283, 17.204631827771664, 15.308057844638824]
+Test: [45.83333333333333, 60.416666666666664, 66.66666666666666, 68.05555555555556, 70.13888888888889, 74.30555555555556, 74.30555555555556, 79.86111111111111, 77.08333333333334, 77.77777777777779, 72.22222222222221, 75.69444444444444, 74.30555555555556, 77.08333333333334, 76.38888888888889, 73.61111111111111, 83.33333333333334, 84.02777777777779, 78.47222222222221, 80.55555555555556, 81.25, 77.08333333333334, 83.33333333333334, 79.86111111111111, 78.47222222222221, 79.16666666666666, 81.94444444444444, 77.08333333333334, 81.25, 78.47222222222221, 84.02777777777779, 84.72222222222221, 81.94444444444444, 84.02777777777779, 83.33333333333334, 85.41666666666666, 84.72222222222221, 77.77777777777779, 86.11111111111111, 75.69444444444444, 84.02777777777779, 84.72222222222221, 86.11111111111111, 86.11111111111111, 83.33333333333334, 81.94444444444444, 83.33333333333334, 81.25, 85.41666666666666, 86.80555555555556]
+Train: [53.51418002466092, 78.2983970406905, 86.80641183723797, 92.72503082614057, 90.8754623921085, 95.93094944512947, 94.45129469790382, 96.30086313193587, 95.06781750924785, 97.78051787916154, 93.21824907521578, 96.54747225647348, 97.53390875462392, 97.28729963008631, 97.41060419235512, 96.6707768187423, 99.50678175092479, 99.26017262638717, 97.16399506781751, 96.42416769420468, 98.64364981504316, 97.28729963008631, 98.89025893958076, 98.27373612823675, 98.89025893958076, 98.02712700369914, 98.15043156596795, 99.01356350184956, 99.38347718865597, 97.28729963008631, 99.26017262638717, 99.50678175092479, 99.13686806411837, 98.89025893958076, 99.38347718865597, 99.01356350184956, 99.63008631319359, 98.27373612823675, 99.50678175092479, 97.28729963008631, 98.76695437731196, 99.75339087546239, 99.38347718865597, 100.0, 98.76695437731196, 99.13686806411837, 99.63008631319359, 99.63008631319359, 99.13686806411837, 99.63008631319359]
+
+Training ended: 15/01/2020 03:48:55
+----------------------------------------------------------------------------------------------------
