@@ -100,6 +100,7 @@ def accuracy(model, device, batch_size, x_data, y_data):
     
     corrects = 0
     with torch.no_grad():
+        end = 0
         for i in range((len(x_data) // batch_size)):
             start = i * batch_size
             end = start + batch_size
@@ -128,7 +129,7 @@ def train(model, device, batch_size, x_train, y_train):
     if mode: model.train()
     
     running_loss = 0
-    
+    end = 0
     # Split the training up in batches.
     for i in range((len(x_train) // batch_size)):
         start = i * batch_size
