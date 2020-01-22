@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jan 23 00:51:06 2020
+
+@author: AndersGM
+"""
 import numpy as np
 import torch, mne, warnings, glob
 from datetime import datetime
